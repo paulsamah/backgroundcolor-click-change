@@ -1,0 +1,32 @@
+body {
+    transition-duration: 1s;
+}
+
+.buttons1 {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.buttons2 {
+    text-align: center;
+    position: fixed;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.buttons1 .btn-outline-primary {
+    font-size: large;
+    font: 3em sans-serif;
+    color: aliceblue;
+}
+
+.buttons2 .btn-outline-primary {
+    font-size: large;
+    font: 3em sans-serif;
+    color: aliceblue;
+}
